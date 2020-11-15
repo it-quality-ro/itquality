@@ -1,2 +1,0 @@
-# itquality
- It quality
